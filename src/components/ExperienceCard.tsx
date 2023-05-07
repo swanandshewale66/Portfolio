@@ -42,7 +42,6 @@ export default function ExperienceCard({}: Props) {
           <li>Summary POints</li>
           <li>Summary POints</li>
           <li>Summary POints</li>
-          <li>Summary POints</li>
         </ul>
       </div>
     </article>
